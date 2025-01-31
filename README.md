@@ -16,6 +16,8 @@ This Python script, bioregen_holts.py, is designed to generate prediction model 
 
 Installation To run this script, you will need Python installed on your system along with several dependencies:
 
+Apply the same for SVR model and Heatmap
+
 pandas numpy matplotlib
 
 You can install these dependencies using pip:
